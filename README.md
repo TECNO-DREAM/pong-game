@@ -1,3 +1,3 @@
 # pong game
 play and enjoy
-download the all files and click 
+download the all files and click index.html
